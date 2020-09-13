@@ -1,0 +1,18 @@
+{
+  "name": "danceacademy",
+  "version": "1.0.1",
+  "description": "this is a website for my dance academy",
+  "main": "app.js(index.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanisha",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "0.0.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
